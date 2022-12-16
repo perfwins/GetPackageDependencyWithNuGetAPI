@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33209.295
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetPackageDependencyWithNuGetAPI", "GetPackageDependencyWithNuGetAPI\GetPackageDependencyWithNuGetAPI.csproj", "{74E01BB0-2391-48ED-9CD2-473FA832D614}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetPackageDependencyWithNuGetAPI", "GetPackageDependencyWithNuGetAPI\GetPackageDependencyWithNuGetAPI.csproj", "{74E01BB0-2391-48ED-9CD2-473FA832D614}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetMetaDataInBatch", "GetMetaDataInBatch\GetMetaDataInBatch.csproj", "{0B25901C-28FE-481F-8A74-424400A218F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{74E01BB0-2391-48ED-9CD2-473FA832D614}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74E01BB0-2391-48ED-9CD2-473FA832D614}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74E01BB0-2391-48ED-9CD2-473FA832D614}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B25901C-28FE-481F-8A74-424400A218F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B25901C-28FE-481F-8A74-424400A218F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B25901C-28FE-481F-8A74-424400A218F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B25901C-28FE-481F-8A74-424400A218F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
